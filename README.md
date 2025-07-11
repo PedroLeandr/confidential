@@ -38,7 +38,7 @@ Encrypt. Push. Done.
 -- soo... --
 
 1. dont push if u dont encrypt;
-2. use 'py encrypter/encrypter.py decrypt {code}' to decrypt files;
+2. use 'py encrypter/encrypter.py decrypt {path name} {code}' to decrypt files;
 3. SAVE THE ENCRYPTION CODE;
-4. use 'py encrypter/encrypter.py encrypt {path name}' to encrypt files, (encrypt the "root path", i mean the path on repositorie;
+4. use 'py encrypter/encrypter.py encrypt {path name}' to encrypt files, (encrypt the "root path", i mean the path on repositorie);
 5. SAVE THE ENCRYPTION CODE;
