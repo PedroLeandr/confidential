@@ -32,6 +32,8 @@ Only encrypt the root of what you want — no need to go deeper.
 
 Encrypt before every push.
 
+THE CODE CHANGE FOR ANY ENCRYPT... SAVE IT!
+
 
 
 ⚠️ Important
